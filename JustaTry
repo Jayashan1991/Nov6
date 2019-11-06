@@ -1,0 +1,9 @@
+to install deom CRAN:
+
+<code> install.packages("devtool")</code>
+
+<code>library(devtools)</code>
+
+<code>install_github('Jayashan1991/JustaTry', build_vignettes =T)</code>
+
+<code>library('Nov6')
